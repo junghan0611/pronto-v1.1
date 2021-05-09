@@ -1,0 +1,3 @@
+*.o
+dump_log
+dump_snapshot

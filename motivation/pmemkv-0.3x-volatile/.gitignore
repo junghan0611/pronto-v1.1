@@ -1,0 +1,7 @@
+*.d
+.DS_Store
+.idea/
+bin/
+cmake-build-debug/
+googletest-*.zip
+src/pmemkv_throughput.cc
